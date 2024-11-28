@@ -1,0 +1,26 @@
+[
+  {
+    "title": "testse",
+    "author": "server",
+    "publisher": "tea",
+    "publishedDate": "21/21/30",
+    "isbn": 1234567890,
+    "id": 1
+  },
+  {
+    "title": "test2",
+    "author": "server",
+    "publisher": "tea",
+    "publishedDate": "21/21/30",
+    "isbn": 12345678911,
+    "id": 2
+  },
+  {
+    "title": "testfall",
+    "author": "server",
+    "publisher": "tea",
+    "publishedDate": "21/21/30",
+    "isbn": 125467982356,
+    "id": 4
+  }
+]
